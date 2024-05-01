@@ -1,6 +1,6 @@
 # Fluid Simulation with Stable Fluids and FFT in Julia
 
-## objective of the Project
+## Objective of the Project
 
 The primary objective of this project is to simulate fluid flow using the Stable Fluids method proposed by Jos Stam, augmented with the Fast Fourier Transform (FFT) for efficient computations. Mainly this project serves as an exploration of Julia's capabilities and its application in scientific computing projects. By utilizing Julia for this simulation, we aim to showcase the language's power and versatility in solving complex computational tasks in fluid dynamics and related fields.
 
