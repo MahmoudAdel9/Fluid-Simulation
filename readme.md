@@ -32,6 +32,13 @@ The primary objective of this project is to simulate fluid flow using the Stable
    - This will execute the code, initiating the fluid flow simulation. Please note that the execution may take some time depending on your system's resources and the specified parameters.
    - After execution, the code will generate `.vti` files inside the `CPL_Folder` directory and a file named `transient_vector.pvd`. The `transient_vector.pvd` file is used for visualization in Paraview.
 
+   #### OR
+
+   - Run our custom script in cmd 😉:
+     ```julia
+     run.bat
+     ```
+
 4. **Visualizing Results in Paraview**:
    - Once the execution is completed, you can visualize the results using Paraview.
    - Open Paraview and load the generated `transient_vector.pvd` file located in the `CPL_Folder` directory.
